@@ -1,1 +1,1 @@
-Simple Autoencoders & Variational Autoencoders.
+Simple Autoencoders & Variational Autoencoders
